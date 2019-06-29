@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "audrius": [
     {
-      "id": 1,
-      "title": "hello"
+        "val1": "A123",
+        "val2": "A321"
     },
     {
       "id": 2,
