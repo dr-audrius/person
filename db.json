@@ -1,20 +1,20 @@
 {
-  "audrius": [
+  "audrius": 
     {
         "val1": "A1",
         "val2": "A2"
     }
-  ],
-   "jonas": [
+  ,
+   "jonas": 
       {
         "val1": "J1",
         "val2": "J2"
       }
-    ],
-    "petras": [
+    ,
+    "petras": 
       {
         "val1": "P1",
         "val2": "P2"
       }
-    ]
+    
 }
